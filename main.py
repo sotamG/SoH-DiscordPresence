@@ -7,7 +7,7 @@ from PIL import Image, ImageDraw
 import sys
 import os
 
-CLIENT_ID = 1460185850649514138
+CLIENT_ID = 1495560691199770817
 
 class SoHDiscordPresence:
     def __init__(self):
